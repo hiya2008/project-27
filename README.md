@@ -1,2 +1,1 @@
-# project-27
-by Hiya Rawal
+# Project Template 26
